@@ -8,22 +8,6 @@
 
 
 
-<table>
-    <tr>
-        <td valign="top">
-            <p>Splash Screen</p>
-            <img src="/src/assets/preview.png" height="500" width="300"/>
-          </td>
-          <td valign="top">
-            <p>Details Screen</p>
-            <img src="/src/assets/preview2.png" height="500" width="300"/>
-          </td>
-    </tr>
-</table>
-<br />
-
-
-
 <h3>👩‍💻 Tecnologias Usadas</h3>
 <ul>
     <li>React</li>
