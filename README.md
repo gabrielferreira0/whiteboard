@@ -2,10 +2,25 @@
 
 <h3>ScreenShots</h3>
 
-<h3>Aplicação criada durante a semana NLW6 - Rocketseat</h3>
 
 ## Imagens
 ![Screenshot_1](/src/assets/preview.png "Screenshot_1")![Screenshot_3](/src/assets/preview2.png "Screenshot_2")
+
+
+
+<table>
+    <tr>
+        <td valign="top">
+            <p>Splash Screen</p>
+            <img src="/src/assets/preview.png" height="500" width="300"/>
+          </td>
+          <td valign="top">
+            <p>Details Screen</p>
+            <img src="/src/assets/preview2.png" height="500" width="300"/>
+          </td>
+    </tr>
+</table>
+<br />
 
 
 
